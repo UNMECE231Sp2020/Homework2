@@ -1,5 +1,5 @@
 # Homework2
-Third homework of ECE 231: Intermediate Programming. Assigned 2/7/2020. Due 2/14/2020, 11:59 pm.
+Third homework of ECE 231: Intermediate Programming. Assigned 2/14/2020. Due 2/21/2020, 11:59 pm.
 
 ## Context
 For this assignment, you are going to do a classic problem. Create a class for complex numbers. You are given the file `main.cpp` which will test your complex class. You'll have to create two additional files:
